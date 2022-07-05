@@ -1,0 +1,10 @@
+
+URL:
+https://subsidiary-agent-banking-dev.fbn-devops-dev-asenv.appserviceenvironment.net/api/v1
+/enqiry/send-sms
+Request:
+{"ChannelId":"agent","CountryId":"07","Language":"en","Message":"Dear customer,
+ your One-Time-Password (OTP) to open new account is: 97479. Please submit to agent","MobileNumber":"232484079797","ReferenceId":"310195230741560","AccountNumber":"402203000034472"}
+Response:
+ {"ResponseCode":"700","ResponseMessage":"Not permitted to use this service","ReferenceId":"310195230741560"}
+
